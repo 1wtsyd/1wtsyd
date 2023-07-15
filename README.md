@@ -1,6 +1,6 @@
 *ну шо.. типо разработчик.*
 
-### Все типа проекты
+### мои разработки
 - **[VerboseVoyager](https://github.com/1wtsyd/VerboseVoyager)**
 
 #### Статистика
